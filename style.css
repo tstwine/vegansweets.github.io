@@ -1,0 +1,19 @@
+body {
+    background-color: #FFDAC1;
+    font-family: 'Sofia';font-size: 82px;
+    
+    justify-content: center;
+    text-align: center;
+}
+
+div {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
